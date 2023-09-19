@@ -2,3 +2,7 @@
   background-color: #0a244d;
   color: #8cabd9;
 }
+
+button:hover {
+  background-color: #555;
+}
