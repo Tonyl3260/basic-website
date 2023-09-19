@@ -1,5 +1,5 @@
-const darkModeButton = document.getElementById("btn-change-color");
+const button = document.getElementById("btn-change-color");
 
-darkModeButton.addEventListener("click", () => {
+button.addEventListener("click", () => {
   document.body.classList.toggle("change-color");
 });
